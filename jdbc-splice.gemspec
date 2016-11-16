@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Splice Engine for JRuby. Includes the JDBC driver.}
   spec.description   = %q{Install this gem `require 'jdbc/splice'` and invoke `Jdbc::Splice.load_driver` within JRuby to load the driver.}
-  spec.homepage      = "splicemachine.com"
+  spec.homepage      = "http://splicemachine.com"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
